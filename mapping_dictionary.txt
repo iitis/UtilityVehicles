@@ -1,0 +1,1 @@
+0: "manual_forklift_with_lift", 1: "manual_forklift_yellow", 2: "manual_forklift_orange", 3:"petrol_lawn_mower", 4: "electric_mower", 5: "large_trolley", 6: "trolley", 7: "robot", 8: "tractor", 9: "trailer"
